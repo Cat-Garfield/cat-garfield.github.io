@@ -1,0 +1,4 @@
+node_modules
+.deploy_git_bak
+.git_bak
+.idea
